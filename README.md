@@ -1,1 +1,1 @@
-# bookmusic
+# AI Assistant - Music Generator
